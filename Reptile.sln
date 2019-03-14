@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{33D871E2-DF5E-4F43-B8A4-CDB6270E756D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlHTML", "CrawlHTML\CrawlHTML.csproj", "{23A7ACFB-53AF-43D7-9DDF-9842220D8AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33D871E2-DF5E-4F43-B8A4-CDB6270E756D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D871E2-DF5E-4F43-B8A4-CDB6270E756D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D871E2-DF5E-4F43-B8A4-CDB6270E756D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D871E2-DF5E-4F43-B8A4-CDB6270E756D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A7ACFB-53AF-43D7-9DDF-9842220D8AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A7ACFB-53AF-43D7-9DDF-9842220D8AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A7ACFB-53AF-43D7-9DDF-9842220D8AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A7ACFB-53AF-43D7-9DDF-9842220D8AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73867153-6D3C-49D7-AEF2-887294444009}
+	EndGlobalSection
+EndGlobal
